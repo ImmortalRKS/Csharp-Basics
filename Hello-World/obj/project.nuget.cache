@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/gdUHMvB7g=",
+  "success": true,
+  "projectFilePath": "/home/fumetsu/csharp-basics/Hello-World/Hello-World.csproj",
+  "expectedPackageFiles": [
+    "/home/fumetsu/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
