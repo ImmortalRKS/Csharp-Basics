@@ -12,3 +12,7 @@ Console.WriteLine("Your age is " + b);
 
 //this might be a bit better since now u dont need to add another var while you can get the job done in one var
 
+Console.Write("Enter your symbol : ");
+char c = Convert.ToChar(Console.ReadLine()!);
+
+//char just stores only one value and is stored under ''
