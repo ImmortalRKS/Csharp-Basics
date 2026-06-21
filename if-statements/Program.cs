@@ -1,8 +1,21 @@
-﻿using System.ComponentModel;
-using System.Formats.Asn1;
-using System.Security.Cryptography;
+﻿
 
-Console.Write("Enter your age : ");
+Console.Write("Enter your Name man: ");
+string b = Console.ReadLine()!;
+if (b == "")
+{
+    Console.WriteLine("Write your name lol");
+}
+else
+{
+    Console.WriteLine("Hey " + b + " whats up dude ");
+}
+
+
+
+
+
+Console.Write("Enter your age man : ");
 int a = Convert.ToInt32(Console.ReadLine())!;
 
 
@@ -13,7 +26,7 @@ if (a == 67)
 
 else if (a == 69)
 {
-    Console.WriteLine("I see you are a man of culture, give me some saucecode");
+    Console.WriteLine("I see you are a man of culture, give me some saucecode ahhhhhhh ");
 }
 
 else if (a >= 18)
