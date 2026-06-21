@@ -11,3 +11,6 @@ char c = Convert.ToChar(Console.ReadLine())!;
 Console.Write("Enter the number you want to be in the place of replaced number : ");
 char d = Convert.ToChar(Console.ReadLine())!;
 Console.WriteLine(b.Replace(c ,d));
+
+
+// In here we get phone number from the user and then ask him which number does he wish to change with what number and both of this is also given by him
