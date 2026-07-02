@@ -3,7 +3,7 @@
 Console.Write("What day is today son ? :");
 string a = Console.ReadLine()!;
 a = a.Trim().ToLower();  //trim() remvoes extra spaces from the output
-switch (a)
+switch (a) //a is the variable which we will be examining
 {
     case "monday":
         Console.WriteLine("Ah nah i dont want to goo college");
