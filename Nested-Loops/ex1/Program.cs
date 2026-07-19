@@ -18,3 +18,5 @@ for (int i = 0; i<rows ; i++)
     }
     Console.WriteLine();
 }
+
+//this although just make something like rectangle
